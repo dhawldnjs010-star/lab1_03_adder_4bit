@@ -63,8 +63,8 @@ endmodule
 | b[1] | V4 | LVCMOS33 |
 | b[0] | U4 | LVCMOS33 |
 | s[3] | M4 | LVCMOS33 |
-| s[2] | N7 | LVCMOS33 |
-| s[1] | M2 | LVCMOS33 |
+| s[2] | M2 | LVCMOS33 |
+| s[1] | N7 | LVCMOS33 |
 | s[0] | M7 | LVCMOS33 |
 | cout | L4 | LVCMOS33 |
 
