@@ -1,6 +1,6 @@
 # 실험 후 레포트: LAB1-03 4비트 가산기
 
-작성자: 엄상혁 (학번 ______) / 조: g조 / 실험일: 2026-09-14 / 소스 커밋: `138faf9` (https://github.com/dhawldnjs010-star/lab1_03_adder_4bit/commit/138faf9dbe0d899c1a51c5c46f26b1e4e186c677) / 구현 도구·버전: Vivado 2026.1 (Build 6511674) / part: xc7s75fgga484-1 / top: `adder_4bit` (시뮬레이션 top `tb_adder_4bit`) / XDC: `constraints/pins.xdc`
+작성자: 엄상혁 (학번 2025440084) / 조: g조 / 실험일: 2026-09-14 / 소스 커밋: `138faf9` (https://github.com/dhawldnjs010-star/lab1_03_adder_4bit/commit/138faf9dbe0d899c1a51c5c46f26b1e4e186c677) / 구현 도구·버전: Vivado 2026.1 (Build 6511674) / part: xc7s75fgga484-1 / top: `adder_4bit` (시뮬레이션 top `tb_adder_4bit`) / XDC: `constraints/pins.xdc`
 
 경로: Vivado 경로로 수행했다.
 
@@ -48,7 +48,7 @@
 
 - Hardware Manager 콘솔에서 `program_hw_devices`가 6회 실행되었다.
 
-- 배선·입력·출력이 보이는 영상: `evidence/board/videos/20260914_162934.mp4` (2026-09-14 16:29:34 촬영).
+- 배선·입력·출력이 보이는 영상: [Google Drive 폴더](https://drive.google.com/drive/folders/1jEJf1LYmlttKZgpoQ-KwmKHDibAAv11X)의 `20260914_162934.mp4` (2026-09-14 16:29:34 촬영).
 
 
 | 조건 | 예상 출력 | 실측 출력 | 사진/영상 시각 | 일치 여부·원인 |
@@ -74,4 +74,4 @@
 
 ## 제출 링크
 
-소스 커밋: https://github.com/dhawldnjs010-star/lab1_03_adder_4bit/commit/138faf9dbe0d899c1a51c5c46f26b1e4e186c677 / 실험 전 레포트: `reports/pre/lab1_03_pre_report.md` / 로그·VCD: `evidence/simulation.txt`, `evidence/wave.vcd`, `evidence/vivado/` / bit·해시: 위 3절 (SHA-256 `9828b1c6edfd39706357512491c32792272727a0191c2ca49b9ca6cd99235d6f`) / 영상: `evidence/board/videos/20260914_162934.mp4` / GitHub에서 링크 확인한 날짜: ______
+소스 커밋: https://github.com/dhawldnjs010-star/lab1_03_adder_4bit/commit/138faf9dbe0d899c1a51c5c46f26b1e4e186c677 / 실험 전 레포트: `reports/pre/lab1_03_pre_report.md` / 로그·VCD: `evidence/simulation.txt`, `evidence/wave.vcd`, `evidence/vivado/` / bit·해시: 위 3절 (SHA-256 `9828b1c6edfd39706357512491c32792272727a0191c2ca49b9ca6cd99235d6f`) / 영상: https://drive.google.com/drive/folders/1jEJf1LYmlttKZgpoQ-KwmKHDibAAv11X (`20260914_162934.mp4`) / GitHub에서 링크 확인한 날짜: ______
